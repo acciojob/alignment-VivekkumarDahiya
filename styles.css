@@ -6,5 +6,7 @@ h1{
 	border:1px solid black;
 	border-spacing:1px;
 }	
-	
+td{
+	padding:1px;
+	border:1px solid black;
 }
